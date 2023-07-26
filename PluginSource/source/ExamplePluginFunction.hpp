@@ -7,4 +7,4 @@
 
 #pragma once
 
-extern "C" float ExamplePluginFunction();
+extern "C" float ExamplePluginFunction ();

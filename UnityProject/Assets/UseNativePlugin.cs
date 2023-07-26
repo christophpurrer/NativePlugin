@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -13,6 +14,7 @@ public class UseNativePlugin : MonoBehaviour
     {
         // Calls the ExamplePluginFunction inside the plugin
         // And prints 5 to the console
+        Debug.Log("Hello world!");
         print (ExamplePluginFunction ());
     }
 

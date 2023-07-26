@@ -8,5 +8,5 @@
 #include "ExamplePluginFunction.hpp"
 
 extern "C" float ExamplePluginFunction() {
-    return 5.0F;
+    return 15.0F;
 }
