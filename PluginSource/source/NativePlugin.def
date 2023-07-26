@@ -1,0 +1,8 @@
+; file used by Visual Studio plugin builds, mostly for 32-bit
+; to stop mangling our exported function names
+; Alternative: https://learn.unity.com/tutorial/working-with-native-plugins-2019-3#
+
+LIBRARY
+
+EXPORTS   
+   ExamplePluginFunction

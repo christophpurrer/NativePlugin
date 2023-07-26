@@ -21,3 +21,7 @@ UnityProject/Logs
 PluginSource/build
 PluginSource/projects/Android/libs/*
 PluginSource/projects/Android/obj/*
+/PluginSource/projects/VisualStudio2022/NativePlugin/x64/Debug
+/PluginSource/projects/VisualStudio2022/x64/Debug
+/PluginSource/projects/VisualStudio2022/NativePlugin/Debug
+/PluginSource/projects/VisualStudio2022/Debug
